@@ -2,43 +2,43 @@ const get = (request, response) => {
     response.send([
         {
             id: 1,
-            name: "iPhone 13 Clear Case with MagSafe",
-            ratting: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MM2X3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1630622653000",
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MM2X3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1630622653000",
-            price: "₹4900",
-            oPrice: "₹4900"   
+            name: "Apple AirPod Pro",
+            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861342000",
+            price: "₹18,000",
+            oPrice: "₹20,499"   
         },
         {
             id: 2,
-            name: "iPhone Leather Wallet with MagSafe - Golden Brown",
+            name: "Apple AirPod 2nd Gen",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MM0Q3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1629865186000",
-            price: "₹5500",
-            oPrice: "₹5500"   
+            image: "https://m.media-amazon.com/images/I/7120GgUKj3L._SL1500_.jpg",
+            price: "₹15,000",
+            oPrice: "₹17,499"   
         },
         {
             id: 3,
-            name: "MagSafe Battery Pack",
-            ratting: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MJWY3_AV3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1631213463000",
+            name: "Apple AirPod Pro A2084",
+            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://images.esellerpro.com/2131/I/252/394/DSC_5962_2.jpg",
-            price: "₹10900",
-            oPrice: "₹10900"   
+            price: "₹20,000",
+            oPrice: "₹25,000"   
         },
         {
             id: 4,
-            name: "MagSafe Charger",
+            name: "Apple AirPod 3rd Gen",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MHXH3_AV4_GEO_IN?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1602981191000",
-            price: "₹4500",
-            oPrice: "₹4500"   
+            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861333000",
+            price: "₹13,000",
+            oPrice: "₹14,500"   
         },
         {
             id: 5,
-            name: "Buy AirTag",
+            name: "Apple Watch Series 4",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airtag-single-select-202104_FV1?wid=445&hei=370&fmt=jpeg&qlt=95&.v=1617761670000",
-            price: "₹3190",
-            oPrice: "₹3190"   
+            image: "https://m.media-amazon.com/images/I/51deGDOsgbL._SL1000_.jpg",
+            price: "₹12,500",
+            oPrice: "₹15,000"   
         },
         {
             id: 6,
