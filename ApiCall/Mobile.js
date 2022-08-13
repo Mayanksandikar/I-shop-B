@@ -2,30 +2,30 @@ const get = (request , response) =>{
     response.send([
         {
             id: 1,
-            name: "OnePlus 9",
+            name: "OPPO Reno8 5G",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/61fy+u9uqPL._SX679_.jpg",
-            price: "₹22,000",
-            oPrice: "₹23,900"
+            image: "https://www.91-img.com/pictures/148756-v7-oppo-reno8-mobile-phone-medium-1.jpg?tr=q-80",
+            price: "₹29,999",
+            oPrice: "₹32,000"
 
         },
         {
             id: 2,
-            name: "OnePlus 10 Pro",
+            name: "Nothing Phone 1",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/61mIUCd-37L._SL1500_.jpg",
-            price: "₹19,500",
-            oPrice: "₹21,000"
+            image: "https://www.91-img.com/pictures/150778-v2-nothing-phone-1-mobile-phone-medium-1.jpg?tr=q-80",
+            price: "₹32,999",
+            oPrice: "₹41,000"
 
         },
         {
             id: 3,
-            name: "OnePlus 10 R",
+            name: "OnePlus Nord 2T 5G",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_SS450_.jpg",
+            image: "https://www.91-img.com/pictures/149276-v6-oneplus-nord-2t-mobile-phone-medium-1.jpg?tr=q-80",
             price: "₹35,000",
             oPrice: "₹38,499"
 

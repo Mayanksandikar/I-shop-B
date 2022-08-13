@@ -2,49 +2,54 @@ const get = (request, response) =>{
     response.send([
         {
             id: 1,
-            name: "Asus ROG Strix G17",
+            name: "HP Pavilion Laptop 15-eg2009TU",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/81ahHX9wU1L._SL1500_.jpg",
-            price: "₹98,000",
-            oPrice: "₹1,02,499"   
+            image: "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/7/67U22PA-1_T1656564043.png",
+            price: "₹68,000",
+            oPrice: "₹72,499"   
         },
         {
             id: 2,
-            name: "Asus ROG Strix G15",
+            name: "HP 15s",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://res-5.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1643650830/burfzegdrsl4lwkidnhy.png",
+            image: "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/7/67U22PA-1_T1656564043.png",
+          
             price: "₹92,000",
             oPrice: "₹99,000"   
         },
         {
             id: 3,
-            name: "Asus TUF Gamming A15",
+            name: "HP 245 G7",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/91zVSkGGZbS._SL1500_.jpg",
+            image: "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/7/67U22PA-1_T1656564043.png",
+        
             price: "₹82,000",
             oPrice: "₹85,999"   
         },
         {
             id: 4,
-            name: "Asus TUF Gaming F15",
+            name: "HP 15 db1069AU",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://dlcdnwebimgs.asus.com/gain/f93bdd99-47d7-4f97-8800-5a83d0bd46a6/",
+            image: "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/7/67U22PA-1_T1656564043.png",
+           
             price: "₹95,499",
             oPrice: "₹99,000"   
         },
         {
             id: 5,
-            name: "HP Pavilion 15 12th Gen",
+            name: "HP Spectre x360",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/61Lh64FYeQL._SL1500_.jpg",
+            image: "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/7/67U22PA-1_T1656564043.png",
+           
             price: "₹68,000",
             oPrice: "₹72,999"   
         },
         {
             id: 6,
-            name: "HP Pavilion 15 12th Gen",
+            name: "HP Spectre x360",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://res-5.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1643650830/burfzegdrsl4lwkidnhy.png",
+            image: "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/6/7/67U22PA-1_T1656564043.png",
+           
             price: "₹92,000",
             oPrice: "₹99,000"   
         },
