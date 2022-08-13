@@ -5,7 +5,7 @@ const get = (request, response) => {
            name: "iPhone 13 Pro Silicone Case with MagSafe - Blue Fog",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
 
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MN653?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1645997874179",
+            image: "https://rukminim1.flixcart.com/image/416/416/kwxv98w0/cases-covers/back-cover/t/6/r/linesilicone-09-012-118-kartv-original-imag9geyjfrqa2hh.jpeg?q=70",
             price: "₹4900.00",
             oPrice: "₹5500.00"   
         },

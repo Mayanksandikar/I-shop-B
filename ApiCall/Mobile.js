@@ -2,153 +2,117 @@ const get = (request , response) =>{
     response.send([
         {
             id: 1,
-            name: "OPPO Reno8 5G",
+            name: "iPhone 13 Pro",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://www.91-img.com/pictures/148756-v7-oppo-reno8-mobile-phone-medium-1.jpg?tr=q-80",
-            price: "₹29,999",
-            oPrice: "₹32,000"
+            image: "https://www.apple.com/in/iphone-13-pro/images/key-features/hero/hero_alpine-green__fipi3m7a9eum_large.jpg",
+            price: "₹119900",
+            oPrice: "₹119900"
 
         },
         {
             id: 2,
-            name: "Nothing Phone 1",
+            name: "iPhone 13",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://www.91-img.com/pictures/150778-v2-nothing-phone-1-mobile-phone-medium-1.jpg?tr=q-80",
-            price: "₹32,999",
-            oPrice: "₹41,000"
+            image: "https://www.apple.com/in/iphone-13/images/key-features/hero/hero_green__rz0u5fdewmqq_large.jpg",
+            price: "₹69900",
+            oPrice: "₹69900"
 
         },
         {
             id: 3,
-            name: "OnePlus Nord 2T 5G",
+            name: "iPhone 12",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://www.91-img.com/pictures/149276-v6-oneplus-nord-2t-mobile-phone-medium-1.jpg?tr=q-80",
-            price: "₹35,000",
-            oPrice: "₹38,499"
+            image: "https://www.apple.com/v/iphone-12/key-features/g/images/overview/hero/hero_purple__b4giljhj5ehe_large.jpg",
+            price: "₹59900",
+            oPrice: "₹59900"
 
         },
         {
             id: 4,
-            name: "OnePlus Nord 2T",
+            name: "iPhone 11",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/617MPEZB5mL._SL1500_.jpg",
-            price: "₹16,500",
-            oPrice: "₹19,000"
+            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-purple-box-2019?wid=213&hei=372&fmt=jpeg&qlt=95&.v=1566845420606",
+            price: "₹49900",
+            oPrice: "₹49900"
 
         },
         {
             id: 5,
-            name: "OnePlus Nord CE 2",
+            name: "APPLE iPhone SE (Black, 64 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/619n6kxuGsL._SL1500_.jpg",
-            price: "₹23,500",
-            oPrice: "₹25,500"
-
+            image: "https://rukminim1.flixcart.com/image/128/128/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjyscxm8fv.jpeg?q=70",
+            price: "₹29,999",
+            oPrice: "₹39,999"
         },
         {
             id: 6,
-            name: "Redmi Note 9 Pro",
+            name: "APPLE iPhone 12 (Green, 64 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://i01.appmifile.com/webfile/globalimg/in/cms/A0F36EF9-A32C-FF2F-E2D5-1FE5124589C2.jpg",
-            price: "₹12,500",
-            oPrice: "₹13,500"
+            image: "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/p/f/w/apple-iphone-12-dummyapplefsn-original-imafwg8dubf3nytw.jpeg?q=70",
+            price: "₹59,999",
+            oPrice: "₹69,999"
         },
         {
             id: 7,
-            name: "Redmi Note 10 Lite",
+            name: "APPLE iPhone 12 Mini (Black, 128 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://i02.appmifile.com/644_operator_in/30/09/2021/71bceaa70d1b789429e32134dc332adb.jpg",
-            price: "₹14,500",
-            oPrice: "₹16,000"
+            image: "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/n/p/d/apple-iphone-12-mini-dummyapplefsn-original-imafwgbfwkfrerak.jpeg?q=70",
+            price: "₹59,999",
+            oPrice: "₹69,999"
         },
         {
             id: 8,
-            name: "Redmi Note 10 Prime",
+            name: "APPLE iPhone 13 Pro Max (Gold, 1 TB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/817clKAKcqL._SL1500_.jpg",
-            price: "₹16,000",
-            oPrice: "₹17,500"
+            image: "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/6/v/c/iphone-13-pro-max-mllh3hn-a-apple-original-imag6vpgpycue85h.jpeg?q=70",
+            price: "₹1,79,900",
+            oPrice: "₹1,89,900"
         },
         {
             id: 9,
-            name: "Redmi Note 11 Pro",
+            name: "APPLE iPhone 13 Pro Max (Graphite, 128 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/717DeSsnXpL._SL1500_.jpg",
-            price: "₹17000",
-            oPrice: "₹19,500"
+            image: "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/3/e/o/iphone-13-pro-max-mll63hn-a-apple-original-imag6vpgwfgxdsj6.jpeg?q=70",
+            price: "₹1,29,900",
+            oPrice: "₹1,39,900"
         },
         {
             id: 10,
-            name: "Redmi Note 11",
+            name: "APPLE iPhone 12 (Red, 256 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/81zLNgcvlaL._AC_SS450_.jpg",
-            price: "₹23500",
-            oPrice: "₹25,500"
+            image: "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/q/8/f/apple-iphone-12-dummyapplefsn-original-imafwg8dbzv8vh7t.jpeg?q=70",
+            price: "₹74,999",
+            oPrice: "₹78,999"
         },
         {
             id: 11,
-            name: "Samsung Galaxy A13 ",
+            name: "APPLE iPhone 12 Mini (Green, 128 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/81i1A1MgXBL._SL1500_.jpg",
-            price: "₹14500",
-            oPrice: "₹16,499"
+            image: "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/h/v/w/apple-iphone-12-mini-dummyapplefsn-original-imafwgb2zkjcwpre.jpeg?q=70",
+            price: "₹59,999",
+            oPrice: "₹67,000"
         },
         {
             id: 12,
-            name: "Samsung Galaxy S20",
+            name: "APPLE iPhone 13 (Starlight, 256 GB)",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/71RxOftVoQL._AC_SS450_.jpg",
-            price: "₹20500",
-            oPrice: "₹21,000"
+            image: "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=70",
+            price: "₹83,999",
+            oPrice: "₹87,999"
         },
-        {
-            id: 13,
-            name: "Asus Zenfone 8",
-            catagory: "Mobile",
-            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://dlcdnwebimgs.asus.com/gain/c05b6491-6d2b-48f0-81f0-d268840208d6/",
-            price: "₹15500",
-            oPrice: "₹17,000"
-        },
-        {
-            id: 14,
-            name: "Asus Zenfone 7",
-            catagory: "Mobile",
-            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://dlcdnwebimgs.asus.com/gain/aefee30c-d71b-46ce-9c28-5cf6daf80a03/",
-            price: "₹15999",
-            oPrice: "₹17,499"
-        },
-        {
-            id: 15,
-            name: "Google Pixel 4 XL",
-            catagory: "Mobile",
-            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/71oTy+incwL._SL1500_.jpg",
-            price: "₹16000",
-            oPrice: "₹18,000"
-        },
-        {
-            id: 16,
-            name:   "Google Pixel 5",
-            catagory: "Mobile",
-            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_Teaser_Google_Pixel_5.jpg",
-            price: "₹17000",
-            oPrice: "₹19,500"
-        }
+       
     ])
 }
 

@@ -1,7 +1,6 @@
 const express = require('express');
 const mobileapi = require("./Documents/Mobile");
 const ipadapi = require("./Documents/Ipad");
-const laptopapi = require("./Documents/Laptop")
 const accessoriesapi = require("./Documents/Accessories")
 const macbookapi = require("./Documents/MakcBook")
 
@@ -12,7 +11,6 @@ app.use(cors());
 
 app.use("/",mobileapi);
 app.use("/",ipadapi);
-app.use("/",laptopapi);
 app.use("/",macbookapi);
 app.use("/",accessoriesapi);
 
